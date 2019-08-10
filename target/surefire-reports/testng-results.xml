@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="42" started-at="2019-08-07T12:27:33Z" finished-at="2019-08-07T12:27:33Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="42" started-at="2019-08-07T12:27:33Z" finished-at="2019-08-07T12:27:33Z">
+      <class name="TestNGclass.TestNGBasics">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:TestNGclass.TestNGBasics@67b64c45]" name="setUp" is-config="true" duration-ms="21" started-at="2019-08-07T12:27:33Z" finished-at="2019-08-07T12:27:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:TestNGclass.TestNGBasics@67b64c45]" name="launchBrowser" is-config="true" duration-ms="0" started-at="2019-08-07T12:27:33Z" finished-at="2019-08-07T12:27:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="enterURL()[pri:0, instance:TestNGclass.TestNGBasics@67b64c45]" name="enterURL" is-config="true" duration-ms="0" started-at="2019-08-07T12:27:33Z" finished-at="2019-08-07T12:27:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterURL -->
+        <test-method status="PASS" signature="Logout()[pri:0, instance:TestNGclass.TestNGBasics@67b64c45]" name="Logout" is-config="true" duration-ms="0" started-at="2019-08-07T12:27:33Z" finished-at="2019-08-07T12:27:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:TestNGclass.TestNGBasics@67b64c45]" name="Login" is-config="true" duration-ms="0" started-at="2019-08-07T12:27:33Z" finished-at="2019-08-07T12:27:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="LogoCheck()[pri:0, instance:TestNGclass.TestNGBasics@67b64c45]" name="LogoCheck" duration-ms="0" started-at="2019-08-07T12:27:33Z" finished-at="2019-08-07T12:27:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoCheck -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:TestNGclass.TestNGBasics@67b64c45]" name="Login" is-config="true" duration-ms="0" started-at="2019-08-07T12:27:33Z" finished-at="2019-08-07T12:27:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="Logout()[pri:0, instance:TestNGclass.TestNGBasics@67b64c45]" name="Logout" is-config="true" duration-ms="0" started-at="2019-08-07T12:27:33Z" finished-at="2019-08-07T12:27:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method status="PASS" signature="SearchTest()[pri:0, instance:TestNGclass.TestNGBasics@67b64c45]" name="SearchTest" duration-ms="0" started-at="2019-08-07T12:27:33Z" finished-at="2019-08-07T12:27:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchTest -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:TestNGclass.TestNGBasics@67b64c45]" name="Login" is-config="true" duration-ms="0" started-at="2019-08-07T12:27:33Z" finished-at="2019-08-07T12:27:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="TitleTest()[pri:0, instance:TestNGclass.TestNGBasics@67b64c45]" name="TitleTest" duration-ms="0" started-at="2019-08-07T12:27:33Z" finished-at="2019-08-07T12:27:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TitleTest -->
+        <test-method status="PASS" signature="Logout()[pri:0, instance:TestNGclass.TestNGBasics@67b64c45]" name="Logout" is-config="true" duration-ms="0" started-at="2019-08-07T12:27:33Z" finished-at="2019-08-07T12:27:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method status="PASS" signature="refresh()[pri:0, instance:TestNGclass.TestNGBasics@67b64c45]" name="refresh" is-config="true" duration-ms="0" started-at="2019-08-07T12:27:33Z" finished-at="2019-08-07T12:27:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- refresh -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:TestNGclass.TestNGBasics@67b64c45]" name="closeBrowser" is-config="true" duration-ms="0" started-at="2019-08-07T12:27:33Z" finished-at="2019-08-07T12:27:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="DeleteCookies()[pri:0, instance:TestNGclass.TestNGBasics@67b64c45]" name="DeleteCookies" is-config="true" duration-ms="1" started-at="2019-08-07T12:27:33Z" finished-at="2019-08-07T12:27:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteCookies -->
+      </class> <!-- TestNGclass.TestNGBasics -->
+      <class name="TestNGclass.SampleMavenClass">
+        <test-method status="PASS" signature="hello()[pri:0, instance:TestNGclass.SampleMavenClass@4411d970]" name="hello" duration-ms="1" started-at="2019-08-07T12:27:33Z" finished-at="2019-08-07T12:27:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hello -->
+      </class> <!-- TestNGclass.SampleMavenClass -->
+      <class name="TestNGclass.SampleTestNGClass">
+        <test-method status="PASS" signature="LogoCheck()[pri:0, instance:TestNGclass.SampleTestNGClass@6442b0a6]" name="LogoCheck" duration-ms="0" started-at="2019-08-07T12:27:33Z" finished-at="2019-08-07T12:27:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoCheck -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:TestNGclass.SampleTestNGClass@6442b0a6]" name="Login" is-config="true" duration-ms="0" started-at="2019-08-07T12:27:33Z" finished-at="2019-08-07T12:27:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="Logout()[pri:0, instance:TestNGclass.SampleTestNGClass@6442b0a6]" name="Logout" is-config="true" duration-ms="1" started-at="2019-08-07T12:27:33Z" finished-at="2019-08-07T12:27:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:TestNGclass.SampleTestNGClass@6442b0a6]" name="Login" is-config="true" duration-ms="0" started-at="2019-08-07T12:27:33Z" finished-at="2019-08-07T12:27:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="SearchTest()[pri:0, instance:TestNGclass.SampleTestNGClass@6442b0a6]" name="SearchTest" duration-ms="1" started-at="2019-08-07T12:27:33Z" finished-at="2019-08-07T12:27:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchTest -->
+        <test-method status="PASS" signature="Logout()[pri:0, instance:TestNGclass.SampleTestNGClass@6442b0a6]" name="Logout" is-config="true" duration-ms="0" started-at="2019-08-07T12:27:33Z" finished-at="2019-08-07T12:27:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:TestNGclass.SampleTestNGClass@6442b0a6]" name="Login" is-config="true" duration-ms="0" started-at="2019-08-07T12:27:33Z" finished-at="2019-08-07T12:27:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="TitleTest()[pri:0, instance:TestNGclass.SampleTestNGClass@6442b0a6]" name="TitleTest" duration-ms="0" started-at="2019-08-07T12:27:33Z" finished-at="2019-08-07T12:27:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TitleTest -->
+        <test-method status="PASS" signature="Logout()[pri:0, instance:TestNGclass.SampleTestNGClass@6442b0a6]" name="Logout" is-config="true" duration-ms="0" started-at="2019-08-07T12:27:33Z" finished-at="2019-08-07T12:27:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+      </class> <!-- TestNGclass.SampleTestNGClass -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
